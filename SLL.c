@@ -160,7 +160,7 @@ void search()
 		while(temp!=NULL)
 		{
 			if(temp->data==t)
-			
+			{
 				c=1;
 				break;
 			}
@@ -189,5 +189,6 @@ void search()
 				}
 			}
 		}
-	}
+	
+
 
